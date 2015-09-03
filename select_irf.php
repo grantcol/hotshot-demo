@@ -105,7 +105,7 @@
           </div>-->
           <div class="modal-body" style="text-align: center;">
             <h2>Setup Complete</h3>
-              <div class="form-logo"><img src="assets/hotshoticon.png"></div>
+              <div class="form-logo"><img src="assets/HotShotIcon.png"></div>
             <p>Thanks for registering your dealership with Hotshot!</p>
           </div>
           <div class="modal-footer">

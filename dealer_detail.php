@@ -36,7 +36,7 @@
     <div class="container">
 
       <form class="form-signin">
-        <div class="form-logo"><img src="assets/hotshoticon.png"></div>
+        <div class="form-logo"><img src="assets/HotShotIcon.png"></div>
         <h5 class="form-signin-heading"> <?php echo $first." " ?> give us some details on your dealership</h5>
         <!--<div class="form-group row">
           <div class="col-md-4">
